@@ -1,0 +1,58 @@
+{
+    "signup":{
+        "name": "Papito",
+        "cpf": "300000000056",
+        "email": "papito@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "75040-040",
+            "street": "Avenida Presidente Kennedy",
+            "number": "100",
+            "details": "apt 1",
+            "district": "Maracanã",
+            "state": "Anápolis/GO"
+        },
+
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+
+"cpf_inv": {
+    "name": "Eloisa",
+    "cpf": "x000000000AA",
+    "email": "victoria@hotmail.com",
+    "whatsapp": "11999999888",
+    "address": {
+        "postalcode": "75040-040",
+        "street": "Avenida Presidente Kennedy",
+        "number": "100",
+        "details": "apt 1",
+        "district": "Maracanã",
+        "state": "Anápolis/GO"
+    },
+
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+
+},
+
+"email_inv": {
+    "name": "Eloisa",
+    "cpf": "76822635041",
+    "email": "victoria.hotmail.com",
+    "whatsapp": "11999999888",
+    "address": {
+        "postalcode": "75040-040",
+        "street": "Avenida Presidente Kennedy",
+        "number": "100",
+        "details": "apt 1",
+        "district": "Maracanã",
+        "state": "Anápolis/GO"
+    },
+
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+
+}
+}
