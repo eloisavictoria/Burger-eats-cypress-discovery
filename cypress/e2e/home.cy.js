@@ -13,10 +13,10 @@ describe('home page', ()=>{
          * cy - comando do cypress
          * viewport - ajustando a resolução
         */
-        cy.viewport(1440, 900)
+        //cy.viewport(1440, 900)
         
         //comando que fará o cypresse acessar o site
-        cy.visit('https://buger-eats.vercel.app/')
+        cy.visit('/')
 
         /**busca o elemento h1 na página
          * should - fala que um elemento deveria conter determinada informação
